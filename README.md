@@ -15,16 +15,16 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100" height="80" alt="HTML" />
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="80" height="80" alt="HTML" />
         <br>HTML
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="48" height="48" alt="CSS" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="80" height="80" alt="CSS" />
         <br>CSS
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="48" height="48" alt="React" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="80" height="80" alt="React" />
         <br>React
       </td>
     </tr>
@@ -36,19 +36,19 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="48" height="48" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="80" height="80" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="48" height="48" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="80" height="80" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" width="48" height="48" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" width="80" height="80" alt="Firebase" />
         <br>Firebase
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="48" height="48" alt="Python" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="80" height="80" alt="Python" />
         <br>Python (Django, Flask)
       </td>
     </tr>
@@ -60,11 +60,11 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="48" height="48" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="80" height="80" alt="MySQL" />
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="48" height="48" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="80" height="80" alt="MongoDB" />
         <br>MongoDB
       </td>
     </tr>
@@ -76,86 +76,86 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="48" height="48" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="80" height="80" alt="Machine Learning" />
         <br>Machine Learning
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Data_Science-3776AB?style=flat&logo=python&logoColor=white" width="48" height="48" alt="Data Science" />
+        <img src="https://img.shields.io/badge/Data_Science-3776AB?style=flat&logo=python&logoColor=white" width="80" height="80" alt="Data Science" />
         <br>Data Science
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="48" height="48" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="80" height="80" alt="Pandas" />
         <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" width="48" height="48" alt="NumPy" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" width="80" height="80" alt="NumPy" />
         <br>NumPy
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="48" height="48" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="80" height="80" alt="TensorFlow" />
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" width="48" height="48" alt="Keras" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" width="80" height="80" alt="Keras" />
         <br>Keras
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" width="48" height="48" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" width="80" height="80" alt="PyTorch" />
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" width="48" height="48" alt="Hadoop" />
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" width="80" height="80" alt="Hadoop" />
         <br>Apache Hadoop
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" width="48" height="48" alt="Apache Spark" />
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" width="80" height="80" alt="Apache Spark" />
         <br>Apache Spark
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="48" height="48" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="80" height="80" alt="Tableau" />
         <br>Tableau
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" width="48" height="48" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" width="80" height="80" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=python&logoColor=white" width="48" height="48" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=python&logoColor=white" width="80" height="80" alt="Matplotlib" />
         <br>Matplotlib
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" width="48" height="48" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" width="80" height="80" alt="Seaborn" />
         <br>Seaborn
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" width="48" height="48" alt="AWS" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" width="80" height="80" alt="AWS" />
         <br>Amazon Web Services
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" width="48" height="48" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" width="80" height="80" alt="Google Cloud" />
         <br>Google Cloud (AI Platform)
       </td        align="center" width="96">
-        <img src="https://img.shields.io/badge/CNNs-E34F26?style=flat&logo=python&logoColor=white" width="48" height="48" alt="CNNs" />
+        <img src="https://img.shields.io/badge/CNNs-E34F26?style=flat&logo=python&logoColor=white" width="80" height="80" alt="CNNs" />
         <br>Convolutional Neural Networks
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/RNNs-563D7C?style=flat&logo=python&logoColor=white" width="48" height="48" alt="RNNs" />
+        <img src="https://img.shields.io/badge/RNNs-563D7C?style=flat&logo=python&logoColor=white" width="80" height="80" alt="RNNs" />
         <br>Recurrent Neural Networks
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/NLP-239120?style=flat&logo=python&logoColor=white" width="48" height="48" alt="NLP" />
+        <img src="https://img.shields.io/badge/NLP-239120?style=flat&logo=python&logoColor=white" width="80" height="80" alt="NLP" />
         <br>Natural Language Processing
       </td>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="48" height="48" alt="Git" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="80" height="80" alt="Git" />
         <br>Git, GitHub
       </td>
     </tr>

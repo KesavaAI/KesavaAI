@@ -1,13 +1,15 @@
-# Chenna Kesava Reddy
+# 👋 Hello, I'm Chenna Kesava Reddy!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/chenna00)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/KesavaAI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=flat&logo=netlify&labelColor=blueviolet)](https://chennakesavareddyprofile.netlify.app/)
+
 
 ## 👋 Hello, I'm Chenna Kesava Reddy!
 
 I am a passionate and dedicated B.Tech graduate specializing in Artificial Intelligence from Gates Institute of Technology. With a strong foundation in Machine Learning and Data Science, I have honed my skills through various internships and projects. I am proficient in Python, Java, SQL, AWS, and AI frameworks such as TensorFlow and PyTorch. I thrive on solving complex problems and continuously learning new technologies.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔧 Technical Skills
 
@@ -140,7 +142,8 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
       <td align="center" width="96">
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" width="80" height="80" alt="Google Cloud" />
         <br>Google Cloud (AI Platform)
-      </td        align="center" width="96">
+      </td>
+      <td align="center" width="96">
         <img src="https://img.shields.io/badge/CNNs-E34F26?style=flat&logo=python&logoColor=white" width="80" height="80" alt="CNNs" />
         <br>Convolutional Neural Networks
       </td>
@@ -162,6 +165,8 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   </table>
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 💼 Professional Experience
 
 ### Data Science & GenAI Job Simulation | BCG
@@ -178,44 +183,33 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
 1. Designed and deployed scalable AWS solutions leveraging AWS infrastructure and best practices, optimizing performance and reducing costs.
 2. Implemented AWS data pipelines for large dataset ingestion, transformation, and analysis, ensuring data integrity and improving performance.
 3. Integrated AWS ML services into workflows through collaboration on model deployment and optimization, enhancing analytics and computer vision capabilities.
-
---
-
 ### AWS Cloud Computing Intern | SkillVertex
 *November 2023 - April 2024*
 #### Responsibilities:
 - Developed and optimized AWS infrastructure leveraging EC2, S3, SageMaker, and CloudFormation.
 - Executed data management tasks including ingestion, storage, and retrieval using AWS services.
 - Contributed to the implementation of cloud-based solutions to enhance system performance and reliability.
-
-  --
-
 ### Data Analytics Virtual Intern | AWS Academy under AICTE
 *May 2023 - Jul 2023*
 #### Responsibilities:
 1. Completed AWS Data Analytics Virtual Internship, gaining practical experience with AWS services such as Amazon S3, AWS Glue, and Amazon Redshift.
 2. Applied machine learning techniques within data pipelines, integrating AWS Machine Learning services for model deployment and optimization.
 3. Optimized AWS solutions for efficiency and cost reduction, ensuring integrity and performance of data analytics workflows.
-
---
-
 ### AI-ML Engineer Intern | AWS Academy under AICTE
 *September 2022 - November 2022*
-
 #### Responsibilities:
 - Developed and deployed AI/ML models on AWS infrastructure.
 - Implemented and optimized machine learning algorithms leveraging AWS ML services and frameworks.
 - Assisted in model deployment and optimization for analytics and computer vision tasks.
 
----
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎓 Education
 
 **B.Tech in Artificial Intelligence**  
 *Gates Institute of Technology*  
 *2020 - 2024*  
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🏆 Certifications
 
 
@@ -233,7 +227,7 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
 - **Python For Machine Learning : The Complete beginners course** - Coursera
 
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 Projects
 
@@ -247,7 +241,7 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
 - Utilized large-scale respiratory sound datasets to train machine learning models for early detection of ailments like asthma.
 - Enhanced algorithmic efficiency, significantly decreasing false positives/negatives and improving reliability.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Contact
 

@@ -16,7 +16,7 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100" height="100" alt="HTML" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="100" height="80" alt="HTML" />
         <br>HTML
       </td>
       <td align="center" width="96">

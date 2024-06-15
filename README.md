@@ -18,7 +18,10 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
 - **Cloud Computing:** AWS (EC2, S3, SageMaker, CloudFormation)
 - **Databases:** MongoDB
 - **Version Control:** Git, GitHub
-
+<td align="center" width="96">
+        <img src="https://img.shields.io/badge/RNNs-563D7C?style=flat&logo=python&logoColor=white" width="48" height="48" alt="RNNs" />
+        <br>Recurrent Neural Networks
+      </td>
 **Soft Skills:**
 - Creativity
 - Leadership

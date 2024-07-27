@@ -38,14 +38,6 @@ I am a passionate and dedicated B.Tech graduate specializing in Artificial Intel
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="80" height="80" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="80" height="80" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" width="80" height="80" alt="Firebase" />
         <br>Firebase
       </td>

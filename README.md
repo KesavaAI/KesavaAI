@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Chenna%20Kesava%20Reddy&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Microsoft%20Certified%20Azure%20AI%20%C2%B7%20TCS&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Chenna%20Kesava%20Reddy&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Microsoft%20Certified%20Azure%20AI%20%C2%B7%20&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+LLMs+·+RAG+·+Agentic+AI+@+TCS;🏆+NASA+RAG+Challenge+—+70%2B+Builders+Competed;🧠+GraphRAG+·+Neo4j+·+LangChain+·+CrewAI;✦+Microsoft+Certified+Azure+AI+Engineer+AI-102)](https://git.io/typing-svg)
 
@@ -25,12 +25,12 @@
 ```python
 {
   "name"      : "Chenna Kesava Reddy Bhomireddy Gari",
-  "role"      : "AI Engineer @ Tata Consultancy Services",
+  "role"      : "AI Engineer",
   "certified" : "Microsoft Azure AI Engineer (AI-102) · Apr 2026",
   "location"  : "Chennai, Tamil Nadu, India 🇮🇳",
   "stack"     : ["LLMs","RAG","Agentic AI","GraphRAG","MLOps"],
   "highlight" : "NASA RAG Challenge · 70+ Builders · i2e Hireathon 2026",
-  "open_to"   : ["Senior AI Engineer","GenAI Architect","LLM Engineer"]
+  "open_to"   : ["AI Engineer","GenAI Architect","LLM Engineer","ML Engineer"]
 }
 ```
 

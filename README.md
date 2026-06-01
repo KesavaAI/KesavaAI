@@ -12,7 +12,6 @@
 [![Credly](https://img.shields.io/badge/Credly_28%2B_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/chenna00/badges)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kesavac913@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=KesavaAI&color=00E5FF&style=flat-square&label=Profile+Views"/>
 
 </div>
 
